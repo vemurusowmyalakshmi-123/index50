@@ -1,0 +1,10 @@
+table th,tr,td{
+   border: 1px solid black;
+   text-align: center;
+   padding: 5px;
+   
+} 
+body{
+
+    background-color: aliceblue;
+}
